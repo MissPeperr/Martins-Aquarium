@@ -1,3 +1,7 @@
+export const useFish = () => {
+    return fishCollection.slice()
+}
+
 /*
  *  To get you started, here's some properties of Bart.
  *  You need to add more properties to complete his
