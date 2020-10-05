@@ -12,13 +12,17 @@
     padding: 0 1em 0 1em;
 }
 
-.fish-list {
+.fish__list {
     display: flex;
     flex-wrap: wrap;
     flex-basis: 60%;
 }
 
-.fish-image {
+.fish {
+    margin: 2%;
+}
+
+.fish__image {
     width: 9rem;
 }
 
